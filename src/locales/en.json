@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "Trumpet Practice",
+    "description": "This is a tool to help you practice trumpet intonation:",
+    "instructions": {
+      "start": "Click the Start button to begin practice",
+      "target": "The interface will display a target note",
+      "play": "Try to play the corresponding note",
+      "feedback": "When the pitch is correct, you'll see 'Correct!' feedback",
+      "autoNext": "After 2 seconds, a new target note will be selected automatically",
+      "continue": "Continue practicing or click the Stop button to end"
+    },
+    "ui": {
+      "currentNote": "Current Note",
+      "noNoteDetected": "No note detected",
+      "targetNote": "Target Note",
+      "correct": "Correct!",
+      "start": "Start",
+      "stop": "Stop"
+    }
+  }
+} 

@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "小号指法练习",
+    "description": "这是一个帮助你练习小号音准的工具：",
+    "instructions": {
+      "start": "点击开始按钮开始练习",
+      "target": "界面会显示一个目标音符",
+      "play": "尝试吹奏对应的音符",
+      "feedback": "当音高正确时，会显示\"正确！\"的反馈",
+      "autoNext": "2秒后会自动选择新的目标音符",
+      "continue": "继续练习或点击停止按钮停止"
+    },
+    "ui": {
+      "currentNote": "当前音符",
+      "noNoteDetected": "未检测到音符",
+      "targetNote": "目标音符",
+      "correct": "正确！",
+      "start": "开始",
+      "stop": "停止"
+    }
+  }
+} 
