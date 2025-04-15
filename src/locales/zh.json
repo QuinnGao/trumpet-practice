@@ -18,5 +18,13 @@
       "start": "开始",
       "stop": "停止"
     }
+  },
+  "difficulty": {
+    "label": "难度",
+    "select": "选择难度",
+    "easy": "简单",
+    "medium": "中等",
+    "hard": "困难",
+    "expert": "专家"
   }
-} 
+}

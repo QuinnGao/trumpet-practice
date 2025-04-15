@@ -18,5 +18,13 @@
       "start": "Start",
       "stop": "Stop"
     }
+  },
+  "difficulty": {
+    "label": "Difficulty",
+    "select": "Select difficulty",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "expert": "Expert"
   }
-} 
+}

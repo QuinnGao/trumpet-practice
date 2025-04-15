@@ -18,5 +18,13 @@
       "start": "開始",
       "stop": "停止"
     }
+  },
+  "difficulty": {
+    "label": "難易度",
+    "select": "難易度を選択",
+    "easy": "簡単",
+    "medium": "普通",
+    "hard": "難しい",
+    "expert": "専門家"
   }
-} 
+}
